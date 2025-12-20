@@ -58,7 +58,7 @@
   color: #0077b5;
 }
 .upwork {
-  color: #87E627;
+  color: white;
 }
 
 
@@ -83,7 +83,7 @@
   background-color: black;
 }
 .upwork:hover {
-  background-color: white;
+  background-color: MediumSeaGreen;
 }
 
 /* Buttons - Read Me, Contact Us */
